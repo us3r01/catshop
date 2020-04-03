@@ -6,7 +6,7 @@ I decided to create a new version of this example using more elements of the _So
 
 > Una referencia muy conocida para aprender smart contracts y el lenguaje de programación _Solidity_ es el tutorial pet shop creado por [Consensys](Conensys). De manera general, este tutorial consiste en la abstracción del caso de uso de la adopción de mascotas utilizando el blockchain de _Ethereum_, _truffle_ y _react_. Es un ejemplo que nos permite aprender a utilizar estructuras de datos con _Solidity_.
 
-Decidí crear una versión que aborde más elementos para poder utilizar más componentes de _Solidity_ y generar un aprendizaje más profundo y real. También decidí utilizar _Vuejs_ para el _front end_, ya que es un _framework_ muy robusto, facil de aprender y en tendencia.
+> Decidí crear una versión que aborde más elementos para poder utilizar más componentes de _Solidity_ y generar un aprendizaje más profundo y real. También decidí utilizar _Vuejs_ para el _front end_, ya que es un _framework_ muy robusto, facil de aprender y en tendencia.
 
 
 ## Project setup
