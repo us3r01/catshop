@@ -1,12 +1,7 @@
 # The Solidity cat shop tutorial
 
-A very common resource for starting learning smart contracts and solidity programming is the pet shop tutorial created by [Consensys](Consensys). Generally speaking, it consists of a standard _truffle_ project, a user interface build with _react_ and a smart contract that abstracts the use case of adopting pets using the Ethereum blockchain. It is a basic example to help us learn how to handle data structures like arrays using _Solidity_.
-
-I decided to create a new version of this example using more elements of the _Solidity_ programming language so that we can have a better understanding of it. I also decided to use _Vuejs_ as a front end framework since it is very easy to learn and a very powerful tool for building user web interfaces. 
-
-> Una referencia muy conocida para aprender smart contracts y el lenguaje de programación _Solidity_ es el tutorial pet shop creado por [Consensys](Conensys). De manera general, este tutorial consiste en la abstracción del caso de uso de la adopción de mascotas utilizando el blockchain de _Ethereum_, _truffle_ y _react_. Es un ejemplo que nos permite aprender a utilizar estructuras de datos con _Solidity_.
-
-> Decidí crear una versión que aborde más elementos para poder utilizar más componentes de _Solidity_ y generar un aprendizaje más profundo y real. También decidí utilizar _Vuejs_ para el _front end_, ya que es un _framework_ muy robusto, facil de aprender y en tendencia.
+Although the pet shop tutorial is an awesome guide, it lacks elements related to a real example. I decided to create a new version of the tutorial build from scratch. This guide focus on teaching one of the most confusing concepts of solidity: Mappings. Also, I switched from reactjs to vuejs to build the user interface.
+I promise you that even if you are familiar with solidity you will find this tutorial very useful.
 
 ## Full documentation if you want to build it from scratch
 
