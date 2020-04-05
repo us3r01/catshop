@@ -8,6 +8,10 @@ I decided to create a new version of this example using more elements of the _So
 
 > Decidí crear una versión que aborde más elementos para poder utilizar más componentes de _Solidity_ y generar un aprendizaje más profundo y real. También decidí utilizar _Vuejs_ para el _front end_, ya que es un _framework_ muy robusto, facil de aprender y en tendencia.
 
+## Full documentation if you want to build it from scratch
+
+https://medium.com/@jtech/the-cat-shop-tutorial-solidity-and-vuejs-4b18ff42e13f
+
 
 ## Project setup
 ```
